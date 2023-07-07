@@ -79,7 +79,7 @@
     "react-scripts": "^3.0.1",
     "react-test-renderer": "^16.8.6",
     "release-it": "^12.2.1",
-    "stylelint": "^10.0.1",
+    "stylelint": "^15.10.1",
     "stylelint-config-prettier": "^5.2.0",
     "stylelint-config-standard": "^18.3.0",
     "webpack": "^4.33.0",
